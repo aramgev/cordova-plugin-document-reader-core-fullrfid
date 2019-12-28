@@ -1,0 +1,58 @@
+{
+  "_from": "cordova-plugin-document-reader-core-fullrfid-beta",
+  "_id": "cordova-plugin-document-reader-core-fullrfid-beta@5.0.11",
+  "_inBundle": false,
+  "_integrity": "sha512-YftQODfoZWejlgtJDs+gNvaVrPm2wf8AED0gaRNbIBPvpIS8ZHadYkXOgLqjy/eGXEhoXgowsWIV+/P0H3JK6A==",
+  "_location": "/cordova-plugin-document-reader-core-fullrfid-beta",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-document-reader-core-fullrfid-beta",
+    "name": "cordova-plugin-document-reader-core-fullrfid-beta",
+    "escapedName": "cordova-plugin-document-reader-core-fullrfid-beta",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-document-reader-core-fullrfid-beta/-/cordova-plugin-document-reader-core-fullrfid-beta-5.0.11.tgz",
+  "_shasum": "96566bb51be258b830ae8e1e56c1ff87adb72d8b",
+  "_spec": "cordova-plugin-document-reader-core-fullrfid-beta",
+  "_where": "D:\\plugins",
+  "author": {
+    "name": "RegulaForensics"
+  },
+  "bugs": {
+    "url": "https://github.com/regulaforensics/DocumentReader-Cordova-Plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-document-reader-core-fullrfid-beta",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin for reading and validation of identification documents (Core framework)",
+  "homepage": "https://mobile.regulaforensics.com",
+  "keywords": [
+    "cordova",
+    "documentreader",
+    "reader",
+    "scanner",
+    "regula"
+  ],
+  "license": "commercial",
+  "max_body_size": "1000mb",
+  "name": "cordova-plugin-document-reader-core-fullrfid-beta",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regulaforensics/DocumentReader-Cordova-Plugin.git"
+  },
+  "version": "5.0.11"
+}

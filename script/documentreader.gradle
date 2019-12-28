@@ -1,0 +1,3 @@
+dependencies {
+	compile 'com.regula.documentreader.core_place_holder:core:version_place_holder'
+}
