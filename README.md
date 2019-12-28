@@ -1,0 +1,1 @@
+# cordova-plugin-document-reader-core-fullrfid
